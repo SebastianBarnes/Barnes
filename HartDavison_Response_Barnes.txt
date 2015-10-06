@@ -1,0 +1,14 @@
+William Hart-Davidson: Content Management
+
+Content management is really interesting as a general concept and seems to be technical communications response to the commodification of writing. In a world in which everyone has basic writing skills coming out of college it is no longer enough to be a great writer as a standalone skill. Content management is loosely defined as a set of “practices for handling information including how it is created, stored, retrieved, formatted, and styled for delivery.” The basic aims of content management include:
+Distributing authoring tasks and responsibilities among members of a group.
+
+Authoring and storing content in ways that enable multiple-audience adaptation, including the translation and localization of content for specific groups.
+
+Authoring and storing content in ways that permit multiple output formats to be derived from a single repository of information (single-sourcing).
+
+Authoring and storing content in ways that facilitate systematic reuse within and across organizations.
+
+This makes a lot of sense in the context of the other readings. To remain relevant in a world that will soon fully automate writing, technical writers must position themselves as people who are not only good at creating content, but as people who control it effectively. To show value we must be on the cutting edge of making content more efficient and more effective. Without technical skill that enable us to create, understand, and manipulate content on a deeper level technical writers will just cease to exist.
+
+After reading this article all of the management complaints that most of us heard from our survey make a lot more sense. The kinds of people who simply write things at a company are disposable and to be able to control enough information to prove value to a company technical communicators are required to tell other people what to write. It’s funny that at the highest level technical communicators rarely do the actual business writing everyone assumes is the entirety of the field. 

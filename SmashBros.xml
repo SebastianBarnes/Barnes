@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<player_list>
+	<player>
+		<realname>Joseph Marquez</realname>
+		<gamertag>Mango</gamertag>
+		<characters_played>
+			<character>Fox</character>
+			<character>Falco</character>
+			<previous_character>Jigglypuff</previous_character>
+		</characters_played>
+		<miom_rank>1</miom_rank>
+		<placings>
+			<first_place>
+				<first>MLG Anaheim</first>
+				<first>Evo 2014</first>
+				<first>The Big House 4</first>
+			</first_place>
+			<second_place>
+				<second>CEO 2014</second>
+			</second_place>
+		</placings>
+		<winloss>
+			<winlossarmada>6-7</winlossarmada>
+			<winlosshbox>6-0</winlosshbox>
+			<winlossleffen>2-0</winlossleffen>
+			<winlossm2k>10-5</winlossm2k>
+			<winlossPPMD>1-2</winlossPPMD>
+		</winloss>
+	</player>
+</player_list>
