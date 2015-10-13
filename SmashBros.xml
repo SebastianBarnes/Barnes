@@ -20,11 +20,116 @@
 			</second_place>
 		</placings>
 		<winloss>
-			<winlossarmada>6-7</winlossarmada>
-			<winlosshbox>6-0</winlosshbox>
-			<winlossleffen>2-0</winlossleffen>
-			<winlossm2k>10-5</winlossm2k>
-			<winlossPPMD>1-2</winlossPPMD>
+			<armada>
+				<win>6</win>
+				<loss>7</loss>
+			</armada>
+			<hbox>
+				<win>6</win>
+				<loss>0</loss>
+			</hbox>
+			<leffen>
+				<win>2</win>
+				<loss>0</loss>
+			</leffen>
+			<m2k>
+				<win>10</win>
+				<loss>5</loss>
+			</m2k>
+			<ppmd>
+				<win>1</win>
+				</loss>2</loss>
+			</ppmd>
+		</winloss>
+	</player>
+	<player>
+		<realname>Adam Lindgren</realname>
+		<gamertag>Armada</gamertag>
+		<characters_played>
+			<character>Fox</character>
+			<character>Peach</character>
+		</characters_played>
+		<miom_rank>2</miom_rank>
+		<placings>
+			<first_place>
+				<first>CEO 2014</first>
+				<first>Avalon 3</first>
+				<first>Super SWEET</first>
+			</first_place>
+			<second_place>
+				<second>MLG Anaheim</second>
+				<second>Beast 4</second>
+				<second>RoF 3</second>
+				<second>Kings of Cali 4</second>
+			</second_place>
+		</placings>
+		<winloss>
+			<mango>
+				<win></win>
+				<loss></loss>
+			</mango>
+			<hbox>
+				<win></win>
+				<loss></loss>
+			</hbox>
+			<leffen>
+				<win></win>
+				<loss></loss>
+			</leffen>
+			<m2k>
+				<win></win>
+				<loss></loss>
+			</m2k>
+			<ppmd>
+				<win></win>
+				</loss></loss>
+			</ppmd>
+		</winloss>
+	</player>
+	<player>
+		<realname></realname>
+		<gamertag></gamertag>
+		<characters_played>
+			<character></character>
+			<character></character>
+			<previous_character></previous_character>
+		</characters_played>
+		<miom_rank></miom_rank>
+		<placings>
+			<first_place>
+				<first></first>
+				<first></first>
+				<first></first>
+			</first_place>
+			<second_place>
+				<second></second>
+			</second_place>
+		</placings>
+		<winloss>
+			<mango>
+				<win></win>
+				<loss></loss>
+			</mango
+			<armada>
+				<win></win>
+				<loss></loss>
+			</armada>
+			<hbox>
+				<win></win>
+				<loss></loss>
+			</hbox>
+			<leffen>
+				<win></win>
+				<loss></loss>
+			</leffen>
+			<m2k>
+				<win></win>
+				<loss></loss>
+			</m2k>
+			<ppmd>
+				<win></win>
+				</loss></loss>
+			</ppmd>
 		</winloss>
 	</player>
 </player_list>
