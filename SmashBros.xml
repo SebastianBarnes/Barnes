@@ -1,4 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="smashxslt.xslt"?>
 <player_list>
 	<player>
 		<realname>Joseph Marquez</realname>
@@ -20,6 +21,7 @@
 			</second_place>
 		</placings>
 		<winloss>
+			<winlossmango>N/A</winlossmango>
 			<winlossarmada>6-7</winlossarmada>
 			<winlosshbox>6-0</winlosshbox>
 			<winlossleffen>2-0</winlossleffen>
