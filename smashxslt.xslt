@@ -30,7 +30,9 @@
 				<td><xsl:value-of select="gamertag"/></td>
 				<td><xsl:value-of select="characters_played"/></td>
 				<td><xsl:value-of select="miom_rank"/></td>
-				<td><xsl:value-of select="first"/></td>
+				<td><xsl:for-each select="placings/first_place/first">
+					<ul><li><xsl:value-of select="."/></li></ul>
+					</xsl:for-each></td>
 				<td><xsl:value-of select="second_place"/></td>
 				<td><xsl:value-of select="third_place"/></td>
 				<td><xsl:value-of select="winlossmango"/></td>
