@@ -1,0 +1,660 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="smashxslt.xslt"?>
+<player_list>
+	<player>
+		<realname>Joseph Marquez</realname>
+		<gamertag>Mango</gamertag>
+		<region>Southern California</region>
+		<characters_played>
+			<character>Fox</character>
+			<character>Falco</character>
+			<character>Jigglypuff</character>
+		</characters_played>
+		<miom_rank>1</miom_rank>
+		<placings>
+			<first_place>
+				<first>MLG Anaheim</first>
+				<first>Evo 2014</first>
+				<first>The Big House 4</first>
+			</first_place>
+			<second_place>
+				<second>CEO 2014</second>
+				<second>Shape of Melee 5</second>
+			</second_place>
+			<third_place>
+				<third>Apex 2014</third>
+				<third>SKTAR 3</third>
+				<third>Super SWEET</third>
+			</third_place>
+			<other_place>
+				<other>N/A</other>
+			</other_place>
+		</placings>
+	</player>
+	<player>
+		<realname>Adam Lindgren</realname>
+		<gamertag>Armada</gamertag>
+		<region>Sweden</region>
+		<characters_played>
+			<character>Fox</character>
+			<character>Peach</character>
+		</characters_played>
+		<miom_rank>2</miom_rank>
+		<placings>
+			<first_place>
+				<first>CEO 2014</first>
+				<first>Avalon 3</first>
+				<first>Super SWEET</first>
+			</first_place>
+			<second_place>
+				<second>MLG Anaheim</second>
+				<second>Beast 4</second>
+				<second>RoF 3</second>
+				<second>Kings of Cali 4</second>
+			</second_place>
+			<third_place>
+				<third>Evo 2014</third>
+			</third_place>
+			<other_place>
+				<other>4th The Big House Five</other>
+				<other>4th SKTAR 3</other>
+			</other_place>
+		</placings>
+	</player>
+	<player>
+		<realname>Kevin Nanney</realname>
+		<gamertag>PPMD</gamertag>
+		<region>North Carolina</region>
+		<characters_played>
+			<character>Falco</character>
+			<character>Marth</character>
+		</characters_played>
+		<miom_rank>3</miom_rank>
+		<placings>
+			<first_place>
+				<first>Apex 2014</first>
+				<first>SKTAR 3</first>
+				<first>NCSU 2014</first>
+			</first_place>
+			<second_place>
+				<second>N/A</second>
+			</second_place>
+			<third_place>
+				<third>N/A</third>
+			</third_place>
+			<other_place>
+				<other>4th MLG Anaheim</other>
+				<other>Evo 2014</other>
+			</other_place>
+		</placings>
+	</player>
+	<player>
+		<realname>Jason Zimmerman</realname>
+		<gamertag>Mew2King</gamertag>
+		<region>Tri-State</region>
+		<characters_played>
+			<character>Marth</character>
+			<character>Sheik</character>
+			<character>Fox</character>
+		</characters_played>
+		<miom_rank>4</miom_rank>
+		<placings>
+			<first_place>
+				<first>Shuffle V</first>
+				<first>Zenith 2014</first>
+				<first>Low Tier City 2</first>
+			</first_place>
+			<second_place>
+				<second>Apex 2014</second>
+				<second>The Big House 4</second>
+				<second>SKTAR 3</second>
+				<second>Revival of Melee 7</second>
+			</second_place>
+			<third_place>
+				<third>MLG Anaheim</third>
+				<third>Get On My Level 2014</third>
+				<third>Kings of Cali 4</third>
+			</third_place>
+			<other_place>
+				<other>4th CEO 2014</other>
+				<other>5th Evo 2014</other>
+			</other_place>
+		</placings>
+	</player>
+	<player>
+		<realname>Juan Debiedma</realname>
+		<gamertag>Hungrybox</gamertag>
+		<region>Florida</region>
+		<characters_played>
+			<character>Jigglypuff</character>
+		</characters_played>
+		<miom_rank>5</miom_rank>
+		<placings>
+			<first_place>
+				<first>Tipped Off 10</first>
+				<first>Fight Pitt V</first>
+				<first>Smash The Record</first>
+			</first_place>
+			<second_place>
+				<second>Evo 2014</second>
+			</second_place>
+			<third_place>
+				<third>CEO 2014</third>
+			</third_place>
+			<other_place>
+				<other>5th Apex 2014</other>
+			</other_place>
+		</placings>
+	</player>
+	<player>
+		<realname>William Hjelte</realname>
+		<gamertag>Leffen</gamertag>
+		<region>Sweden</region>
+		<characters_played>
+			<character>Fox</character>
+		</characters_played>
+		<miom_rank>6</miom_rank>
+		<placings>
+			<first_place>
+				<first>B.E.A.S.T. 4</first>
+				<first>Republic of Fighters 3</first>
+			</first_place>
+			<second_place>
+				<second>Beauty 9</second>
+			</second_place>
+			<third_place>
+				<third>The Big House 4</third>
+			</third_place>
+			<other_place>
+				<other>4th Apex 2014</other>
+				<other>5th MLG Anaheim</other>
+			</other_place>
+		</placings>
+	</player>
+	<player>
+		<realname>Jeffrey Williamson</realname>
+		<gamertag>Axe</gamertag>
+		<region>Arizona</region>
+		<characters_played>
+			<character>Pikachu</character>
+			<character>Falco</character>
+			<character>Young Link</character>
+		</characters_played>
+		<miom_rank>7</miom_rank>
+		<placings>
+			<first_place>
+				<first>Southwest Justice 2</first>
+			</first_place>
+			<second_place>
+				<second>N/A</second>
+			</second_place>
+			<third_place>
+				<third>N/A</third>
+			</third_place>
+			<other_place>
+				<other>5th Evo</other>
+				<other>4th Super Sweet</other>
+				<other>4th Zenith 2014</other>
+			</other_place>
+		</placings>
+	</player>
+	<player>
+		<realname>Aziz Al-Yami</realname>
+		<gamertag>Hax$</gamertag>
+		<region>Tri-State</region>
+		<characters_played>
+			<character>Fox</character>
+		</characters_played>
+		<miom_rank>8</miom_rank>
+		<placings>
+			<first_place>
+				<first>Do You Fox Wit It?</first>
+				<first>Super Nebulous</first>
+			</first_place>
+			<second_place>
+				<second>Justice 4</second>
+				<second>Zenith 2014</second>
+			</second_place>
+			<third_place>
+				<third>N/A</third>
+			</third_place>
+			<other_place>
+				<other>5th The Big House 4</other>
+				<other>7th MLG Anaheim</other>
+				<other>13th Evo 2014</other>
+			</other_place>
+		</placings>
+	</player>
+	<player>
+		<realname>Weston Dennis</realname>
+		<gamertag>Westballz</gamertag>
+		<region>Southern California</region>
+		<characters_played>
+			<character>Falco</character>
+		</characters_played>
+		<miom_rank>9</miom_rank>
+		<placings>
+			<first_place>
+				<first>1st Super Smash Sunday</first>
+			</first_place>
+			<second_place>
+				<second>Low Tier City 2</second>
+				<second>The Next Episode</second>
+			</second_place>
+			<third_place>
+				<third>N/A</third>
+			</third_place>
+			<other_place>
+				<other>7th The Big House 5</other>
+				<other>9th MLG Anaheim</other>
+				<other>13th Evo 2014</other>
+			</other_place>
+		</placings>
+	</player>
+	<player>
+		<realname>Colin Green</realname>
+		<gamertag>Colbol</gamertag>
+		<region>Florida</region>
+		<characters_played>
+			<character>Fox</character>
+			<character>Marth</character>
+		</characters_played>
+		<miom_rank>10</miom_rank>
+		<placings>
+			<first_place>
+				<first>N/A</first>
+			</first_place>
+			<second_place>
+				<second>Fight Pitt V</second>
+				<second>CEO Winterfest 2014</second>
+			</second_place>
+			<third_place>
+				<third>CEO 2014 Prologue</third>
+				<third>Tipped off 10</third>
+			</third_place>
+			<other_place>
+				<other>5th Apex 2014</other>
+				<other>7th CEO 2014</other>
+				<other>13th The Big House 4</other>
+			</other_place>
+		</placings>
+	</player>
+	<player>
+		<realname>Jeremy Westfahl</realname>
+		<gamertag>Fly Amanita</gamertag>
+		<region>Southern California</region>
+		<characters_played>
+			<character>Ice Climbers</character>
+		</characters_played>
+		<miom_rank>11</miom_rank>
+		<placings>
+			<first_place>
+				<first>The Next Episode</first>
+			</first_place>
+			<second_place>
+				<second>Southern California Weeklies</second>
+			</second_place>
+			<third_place>
+				<third>Pat's House 2</third>
+			</third_place>
+			<other_place>
+				<other>7th Evo 2014</other>
+				<other>17th Apex 2014</other>
+			</other_place>
+		</placings>
+	</player>
+	<player>
+		<realname>Joey Aldama</realname>
+		<gamertag>Lucky</gamertag>
+		<region>Southern California</region>
+		<characters_played>
+			<character>Fox</character>
+		</characters_played>
+		<miom_rank>12</miom_rank>
+		<placings>
+			<first_place>
+				<first>Southern California Weeklies</first>
+			</first_place>
+			<second_place>
+				<second>Shadowloo Showdown V</second>
+			</second_place>
+			<third_place>
+				<third>N/A</third>
+			</third_place>
+			<other_place>
+				<other>5th The Big House 4</other>
+				<other>9th MLG Anaheim</other>
+				<other>17th Apex 2014</other>
+				<other>17th Evo 2014</other>
+			</other_place>
+		</placings>
+	</player>
+	<player>
+		<realname>Kevin Toy</realname>
+		<gamertag>PewPewU</gamertag>
+		<region>Northern California</region>
+		<characters_played>
+			<character>Marth</character>
+		</characters_played>
+		<miom_rank>13</miom_rank>
+		<placings>
+			<first_place>
+				<first>Smashed at the Foundry</first>
+			</first_place>
+			<second_place>
+				<second>N/A</second>
+			</second_place>
+			<third_place>
+				<third>N/A</third>
+			</third_place>
+			<other_place>
+				<other>9th MLG Anaheim</other>
+				<other>9th Evo 2014</other>
+				<other>13th Apex 2014</other>
+			</other_place>
+		</placings>
+	</player>
+	<player>
+		<realname>DaJuan McDaniel</realname>
+		<gamertag>Shroomed</gamertag>
+		<region>Northern California</region>
+		<characters_played>
+			<character>Sheik</character>
+			<character>Dr. Mario</character>
+		</characters_played>
+		<miom_rank>14</miom_rank>
+		<placings>
+			<first_place>
+				<first>N/A</first>
+			</first_place>
+			<second_place>
+				<second>Smashed at the Foundry</second>
+			</second_place>
+			<third_place>
+				<third>N/A</third>
+			</third_place>
+			<other_place>
+				<other>13th Apex 2014</other>
+				<other>13th MLG Anaheim</other>
+				<other>17th Evo 2014</other>
+			</other_place>
+		</placings>
+	</player>
+	<player>
+		<realname>Otto Bisno</realname>
+		<gamertag>Silent Wolf</gamertag>
+		<region>Washington</region>
+		<characters_played>
+			<character>Fox</character>
+		</characters_played>
+		<miom_rank>15</miom_rank>
+		<placings>
+			<first_place>
+				<first>Drop Zone</first>
+			</first_place>
+			<second_place>
+				<second>ePG</second>
+			</second_place>
+			<third_place>
+				<third>N/A</third>
+			</third_place>
+			<other_place>
+				<other>7th Evo 2014</other>
+				<other>13th Apex 2014</other>
+			</other_place>
+		</placings>
+	</player>
+	<player>
+		<realname>Justin McGrath</realname>
+		<gamertag>Plup</gamertag>
+		<region>Florida</region>
+		<characters_played>
+			<character>Sheik</character>
+			<character>Samus</character>
+		</characters_played>
+		<miom_rank>16</miom_rank>
+		<placings>
+			<first_place>
+				<first>VGC EVO Sponsorship Tournament</first>
+			</first_place>
+			<second_place>
+				<second>CEO 2014 Prologue</second>
+			</second_place>
+			<third_place>
+				<third>N/A</third>
+			</third_place>
+			<other_place>
+				<other>5th CEO 2014</other>
+				<other>9th The Big House 4</other>
+				<other>9th Evo 2014</other>
+			</other_place>
+		</placings>
+	</player>
+	<player>
+		<realname>Shephard Lima</realname>
+		<gamertag>Fiction</gamertag>
+		<region>Southern California</region>
+		<characters_played>
+			<character>Fox</character>
+		</characters_played>
+		<miom_rank>17</miom_rank>
+		<placings>
+			<first_place>
+				<first>N/A</first>
+			</first_place>
+			<second_place>
+				<second>N/A</second>
+			</second_place>
+			<third_place>
+				<third>Super Smash Sundays</third>
+			</third_place>
+			<other_place>
+				<other>7th Apex 2014</other>
+				<other>7th CEO 2014</other>
+				<other>13th Evo 2014</other>
+			</other_place>
+		</placings>
+	</player>
+	<player>
+		<realname>Johnny Kim</realname>
+		<gamertag>S2J</gamertag>
+		<region>Southern California</region>
+		<characters_played>
+			<character>Capitan Falcon</character>
+		</characters_played>
+		<miom_rank>18</miom_rank>
+		<placings>
+			<first_place>
+				<first>Super Smash Sundays</first>
+					</first_place>
+			<second_place>
+				<second>Mayhem</second>
+			</second_place>
+			<third_place>
+				<third>N/A</third>
+			</third_place>
+			<other_place>
+				<other>13th Evo 2014</other>
+				<other>13th MLG Anaheim</other>
+			</other_place>
+		</placings>
+	</player>
+	<player>
+		<realname>Mustafa Akcakaya</realname>
+		<gamertag>Ice</gamertag>
+		<region>Germany</region>
+		<characters_played>
+			<character>Fox</character>
+			<character>Sheik</character>
+		</characters_played>
+		<miom_rank>19</miom_rank>
+		<placings>
+			<first_place>
+				<first>Avalon I</first>
+				<first>Avalon II</first>
+			</first_place>
+			<second_place>
+				<second>Smash Ain't Dead 3</second>
+			</second_place>
+			<third_place>
+				<third>B.E.A.S.T. 4</third>
+			</third_place>
+			<other_place>
+				<other>9th Apex</other>
+				<other>33rd Evo 2014</other>
+			</other_place>
+		</placings>
+	</player>
+	<player>
+		<realname>Zac Cordoni</realname>
+		<gamertag>SFAT</gamertag>
+		<region>Northern California</region>
+		<characters_played>
+			<character>Fox</character>
+		</characters_played>
+		<miom_rank>20</miom_rank>
+		<placings>
+			<first_place>
+				<first>N/A</first>
+			</first_place>
+			<second_place>
+				<second>Northern California Regionals</second>
+			</second_place>
+			<third_place>
+				<third>Do You Fox With It?</third>
+			</third_place>
+			<other_place>
+				<other>17th The Big House 4</other>
+				<other>25th Evo 2014</other>
+				<other>25th Apex 2014</other>
+			</other_place>
+		</placings>
+	</player>
+	<player>
+		<realname>Julian Zhu</realname>
+		<gamertag>Zhu</gamertag>
+		<region>Pennsylvania</region>
+		<characters_played>
+			<character>Falco</character>
+		</characters_played>
+		<miom_rank>21</miom_rank>
+		<placings>
+			<first_place>
+				<first>N/A</first>
+			</first_place>
+			<second_place>
+				<second>N/A</second>
+			</second_place>
+			<third_place>
+				<third>Justice 4</third>
+			</third_place>
+			<other_place>
+				<other>17th Apex 2014</other>
+				<other>21st MLG Anaheim</other>
+				<other>25th The Big House 4</other>
+			</other_place>
+		</placings>
+	</player>
+	<player>
+		<realname>Masaya Chikamoto</realname>
+		<gamertag>aMSa</gamertag>
+		<region>Japan</region>
+		<characters_played>
+			<character>Yoshi</character>
+		</characters_played>
+		<miom_rank>22</miom_rank>
+		<placings>
+			<first_place>
+				<first>PSG</first>
+			</first_place>
+			<second_place>
+				<second>NINJA 5</second>
+			</second_place>
+			<third_place>
+				<third>Republic of Fighters 3</third>
+			</third_place>
+			<other_place>
+				<other>9th Apex 2014</other>
+				<other>17th Evo 2014</other>
+				<other>17th MLG Anaheim</other>
+			</other_place>
+		</placings>
+	</player>
+	<player>
+		<realname>David MacDonald</realname>
+		<gamertag>KirbyKaze</gamertag>
+		<region>Ontario</region>
+		<characters_played>
+			<character>Sheik</character>
+		</characters_played>
+		<miom_rank>23</miom_rank>
+		<placings>
+			<first_place>
+				<first>N/A</first>
+			</first_place>
+			<second_place>
+				<second>Polybash XIII</second>
+				<second>The Come Up</second>
+			</second_place>
+			<third_place>
+				<third>N/A</third>
+			</third_place>
+			<other_place>
+				<other>4th Get On My Level</other>
+				<other>5th Revival of Melee 7 </other>
+				<other>17th The Big House 5</other>
+			</other_place>
+		</placings>
+	</player>
+	<player>
+		<realname>Michael Brancato</realname>
+		<gamertag>Nintendude</gamertag>
+		<region>MD/VA</region>
+		<characters_played>
+			<character>Ice Climbers</character>
+		</characters_played>
+		<miom_rank>24</miom_rank>
+		<placings>
+			<first_place>
+				<first>S@X</first>
+				<first>Shell Shocked XVI</first>
+			</first_place>
+			<second_place>
+				<second>Civil War VI</second>
+			</second_place>
+			<third_place>
+				<third>N/A</third>
+			</third_place>
+			<other_place>
+				<other>4th Shuffle V</other>
+				<other>5th Zenith 2014</other>
+				<other>17th Evo 2014</other>
+			</other_place>
+		</placings>
+	</player>
+	<player>
+		<realname>McCain LaVelle</realname>
+		<gamertag>MacD</gamertag>
+		<region>Southern California</region>
+		<characters_played>
+			<character>Peach</character>
+		</characters_played>
+		<miom_rank>25</miom_rank>
+		<placings>
+			<first_place>
+				<first>N/A</first>
+			</first_place>
+			<second_place>
+				<second>N/A</second>
+			</second_place>
+			<third_place>
+				<third>N/A</third>
+			</third_place>
+			<other_place>
+				<other>5th Mayhem</other>
+				<other>9th Apex 2014</other>
+				<other>9th Do You Fox With It</other>
+			</other_place>
+		</placings>
+	</player>
+</player_list>
