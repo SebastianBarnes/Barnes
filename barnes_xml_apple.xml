@@ -1,0 +1,74 @@
+<article>
+	<introduction>
+		<title>Connect to Wi-Fi on your iPhone, iPad, or iPod touch</title>
+		<goal>Learn how to connect your device to a Wi-Fi network, including open, secure, and hidden networks.</goal>
+		<articlenavigation>
+			<sectionlink>Wi-Fi network</sectionlink>
+			<sectionlink>Secure Wi-Fi network</sectionlink>
+			<sectionlink>Hidden Wi-Fi network</sectionlink>
+		</articlenavigation>
+	</introduction>	
+	<body>
+		<section>
+			<heading>Connect to Wi-Fi networks</heading>
+			<procedure>
+				<step>
+					<instruction>Tap Settings > Wi-Fi, and make sure Wi-Fi is turned on. Your device will search for available Wi-Fi networks.</instruction>
+					<img>image 1</img>
+				</step>
+				<step>
+					<instruction>Tap the name of the Wi-Fi network you'd like to join.</instruction>
+					<img>image 2</img>
+				</step>
+				<procedurenote>After you've joined the network, you should see  next to the network, and  in the upper-left side of your display.</procedurenote>
+			</procedure>
+		</section>
+		<section>
+			<heading>Connect to secure Wi-Fi networks</heading>
+			<procedure>
+				<step>
+					<instruction>Tap Settings > Wi-Fi, and make sure Wi-Fi is turned on. Then, tap the name of the Wi-Fi network you'd like to join. Password-protected networks have   by their names.</instruction>
+					<img>image 3</img>
+				</step>
+				<step>
+					<instruction>When asked, enter the password and tap Join. If tapping Join has no effect, the password you entered is too short. </instruction>
+					<img>image 4</img>
+				</step>
+				<procedurenote>If you don't know the password to the Wi-Fi network, contact your network administrator.</procedurenote>
+				<procedurenote>After you've joined the network, you should see  next to the network, and  in the upper-left side of your display.</procedurenote>
+			</procedure>
+		</section>
+		<section>
+			<heading>Connect to hidden Wi-Fi networks</heading>
+			<sectiondescription>Since hidden networks won't appear in your device's list of available networks, you'll need to know the exact name of the network you're trying to join.</sectiondescription>
+			<procedure>
+				<step>
+					<instruction>Tap Settings > Wi-Fi, and make sure Wi-Fi is turned on. Tap Other.</instruction>
+					<img>image 5</img>
+				</step>
+				<step>
+					<instruction>Enter the exact name of the network, then tap Security.</instruction>
+					<img>image 6</img>
+				</step>
+				<step>
+					<instruction>Pick the security type. Not all hidden networks are secure. Check with the network administrator if necessary.</instruction>
+					<img>image 7</img>
+				</step>
+				<step>
+					<instruction>At the top of the screen, tap Other Network to return to the previous screen.</instruction>
+				</step>
+				<step>
+					<instruction>Enter the network password in the Password field, then tap Join.</instruction>
+					<img>image 8</img>
+				</step>
+				<procedurenote>After you've joined the network, you should see  next to the network, and  in the upper-left side of your display. </procedurenote>
+			</procedure>
+		</section>
+		<learnmore>
+			<related>Joining subscription Wi-Fi networks</related>
+			<related>If you can't connect to a Wi-Fi network</related>
+			<related>If the Wi-Fi settings are grayed out or dim</related>
+			<related>About settings for Wi-Fi routers and access points</related>
+		</learnmore>
+	</body>
+</article>
